@@ -6,7 +6,7 @@
  * Modified source code from http://jsfiddle.net/HP326/6/
  * 
  * @param {string} [a] If set only return the rules for this class selector
- * @param {string} [d] If set only return the rules for this id selector
+ * @param {string} [b] If set only return the rules for this id selector
  * 
  * @returns {array} An Array of the rules as strings
  */
