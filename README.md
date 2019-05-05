@@ -1,7 +1,7 @@
 # getCSSRules
 Get all the css rules from a class or id or all rules that apply to an element.
 
-It's nice and clean output it could be used for debugging purposes, by sending to server etc.
+It's nice and clean output it, could be used for debugging purposes, by sending to server etc.
 
 <pre>
 var element = document.getElementById("test");
